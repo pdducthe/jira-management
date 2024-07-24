@@ -1,0 +1,18 @@
+.nav-item {
+    transition: all 0.5s;
+    padding: 5%;
+  
+    &:hover {
+      background-color: rgb(177, 255, 251);
+      border-radius: 10px;
+    }
+  }
+  .feature {
+    cursor: no-drop;
+    padding: 5% !important;
+    margin-bottom: 0;
+    a {
+      cursor: no-drop;
+    }
+  }
+  
